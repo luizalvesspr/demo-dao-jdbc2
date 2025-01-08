@@ -1,2 +1,5 @@
 /Model/
 /model_dao/
+/model_dao_impl/
+/Application/
+/db/
